@@ -48,12 +48,12 @@ The seventh and final step of the pipeline combines the line drawn on the blank 
 
 The pipeline executed on the test images produced the following images.
 
-![White Curve](/test_images_output/solidWhiteCurve.jpg)
-![White Right](/test_images_output/solidWhiteRight.jpg)
-![Yellow Curve](/test_images_output/solidYellowCurve.jpg)
-![Yellow Curve 2](/test_images_output/solidYellowCurve2.jpg)
-![Yellow Left](/test_images_output/solidYellowLeft.jpg)
-![White Car Lane Switch](/test_images_output/whiteCarLaneSwitch.jpg)
+![White Curve](/P1/test_images_output/solidWhiteCurve.jpg)
+![White Right](/P1/test_images_output/solidWhiteRight.jpg)
+![Yellow Curve](/P1/test_images_output/solidYellowCurve.jpg)
+![Yellow Curve 2](/P1/test_images_output/solidYellowCurve2.jpg)
+![Yellow Left](/P1/test_images_output/solidYellowLeft.jpg)
+![White Car Lane Switch](/P1/test_images_output/whiteCarLaneSwitch.jpg)
 
 ## Shortcomings of the pipeline
 
